@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# CppLint cache
+filelist.txt
+cppcheck.xml
