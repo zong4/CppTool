@@ -1,1 +1,2 @@
-main.cpp:10:  Could not find a newline character at the end of the file.  [whitespace/ending_newline] [5]
+main.cpp:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+main.cpp:5:  Could not find a newline character at the end of the file.  [whitespace/ending_newline] [5]
