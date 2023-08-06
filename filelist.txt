@@ -1,4 +1,3 @@
-.gitignore
 CppVisualization/CMakeLists.txt
 CppVisualization/CMakeSettings.json
 CppVisualization/ZCore/ZThread.cpp
