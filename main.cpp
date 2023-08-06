@@ -1,3 +1,7 @@
+// delete will cause error
+// /*
+// # Copyright (c) 2023 Zong
+// */
 
 #include <iostream>
 
