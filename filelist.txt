@@ -1,3 +1,2 @@
 cppcheck.xml
 filelist.txt
-main.cpp
