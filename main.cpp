@@ -1,6 +1,3 @@
-/*
-# Copyright (c) 2023 Zong
-*/
 
 #include <iostream>
 
